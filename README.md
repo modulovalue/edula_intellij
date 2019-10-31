@@ -2,3 +2,5 @@
 An intelligent IntelliJ Theme for Dart Developers.
 
 ![Image](assets/edula_graphic.png)
+
+TODO Readme
